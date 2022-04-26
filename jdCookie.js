@@ -11,7 +11,7 @@
 此文件为Node.js专用。其他用户请忽略
  */
 //此处填写京东账号cookie。
-let CookieJDs = [
+let CookieJDs = [pt_key=AAJiZMukADCtILTNQq-ncS4fGJqjUiRLuRvZ0lwS4-IKt-OLloD2x5h5jx1kf9RmBEhdvVum2kQ; pt_pin=ZB_ZB7050;
 ]
 // 判断环境变量里面是否有京东ck
 if (process.env.JD_COOKIE) {
